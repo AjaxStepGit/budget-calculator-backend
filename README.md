@@ -1,3 +1,5 @@
+## AS RENDER PROVIDED DOCUMENTATION THE FIRST API REQUEST COULD TAKE TIME OK !!
+
 # 🧾 Budget Tracker API (Django Backend)
 
 This is the backend API for the **Budget Tracker App**, built with **Django** and **Django REST Framework**. It handles authentication, transactions, budgets, categories, and a financial summary.
