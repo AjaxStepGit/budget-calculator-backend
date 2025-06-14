@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-5vbk4-kppjpr1lmdy0_#2$su4-qyfc3^osa_(j9s*qd7%9xn3('
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['budget-calculator-backend-m4bk.onrender.com']
 
 CORS_ALLOW_ALL_ORIGINS = True
 
